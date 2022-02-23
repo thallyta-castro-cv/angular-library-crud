@@ -1,0 +1,29 @@
+table {
+    width: 100%;
+}
+
+th {
+    background: #e1d6f6;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+    font-weight: 500;
+    padding-top: 15px;
+}
+
+i.edit{
+    margin-right: 15px;
+    color: #d9cd26;
+}
+
+i.delete{
+    color: #d80c20;
+}
+
+.allcard {
+    background-color: #7F00FF;
+    color: white;
+}

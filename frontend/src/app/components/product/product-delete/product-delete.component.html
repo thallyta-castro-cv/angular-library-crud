@@ -1,0 +1,32 @@
+<mat-card>
+    <mat-card-title>
+        <span class="material-icons v-middle">book</span>
+        Confirmar exclusão do Livro
+    </mat-card-title>
+    <form action="">
+        <mat-form-field>
+            <input matInput placeholder="Nome" 
+            [value] ="product.name" name="name" disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Autor" 
+            [value] ="product.autor" name="autor" disabled>
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Ano" disabled 
+            [value] ="product.ano" name="ano">
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Preço (R$)" disabled 
+            [value] ="product.price" name="price">
+        </mat-form-field>
+        
+    </form>
+    <button mat-raised-button (click)="deleteProduct()" color="warn">
+        Excluir
+    </button>
+    
+    <button mat-raised-button (click)="cancelar()">
+        Voltar
+    </button>
+</mat-card>
