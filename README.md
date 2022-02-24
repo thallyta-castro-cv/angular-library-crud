@@ -27,11 +27,21 @@ e aplicativos: CREATE, READ, UPDATE E DELETE (CRUD).
 * Node
 * NPM
 
+Para iniciar a aplicação execute o seguinte comando na pasta frontend
+
+```shell script
+ng serve
+```
+
 ## Backend
 
 * json-server
 
 Para iniciar a base de dados execute o seguinte comando na pasta backend: 
+
+```shell script
+json-server --watch db.json --port 3001
+```
 
 
 # Autor
