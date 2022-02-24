@@ -12,8 +12,10 @@ e aplicativos: CREATE, READ, UPDATE E DELETE (CRUD).
 # Layout do projeto
 
 ![Home](1.png)
-![Lista de Filmes](2.png)
-![Carrinho](3.png)
+![Lista de livros](2.png)
+![Cadastro](3.png)
+![Alterar](4.png)
+![Deletar](5.png)
 
 # Tecnologias utilizadas
 ## Frontend
