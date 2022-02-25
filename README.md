@@ -42,7 +42,7 @@ ng serve
 Para iniciar a base de dados execute o seguinte comando na pasta backend: 
 
 ```shell script
-json-server --watch db.json --port 3001
+npm start
 ```
 
 
