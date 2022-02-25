@@ -1,9 +1,9 @@
-# Library Books Angular
+# Library Angular
 ![NPM](https://img.shields.io/npm/l/react)
 
 <img align="center" alt="Thallyta-Js" height="200" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
 
-<b> Este projeto foi criado para colocar em prática o aprendizado sobre recursos essenciais do Angular </b>
+<b> Este projeto foi criado com Angular CLI 13.2.3 para colocar em prática o aprendizado sobre recursos essenciais do Angular </b>
 
 # Sobre o projeto
 Este projeto consiste em uma aplicação simples em Angular de uma biblioteca que consome uma base de dados do arquivo db.json e realiza as quatro principais operações em banco de dados e 
