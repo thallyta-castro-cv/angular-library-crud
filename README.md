@@ -1,5 +1,4 @@
 # Library Angular
-![NPM](https://img.shields.io/npm/l/react)
 
 <img align="center" alt="Thallyta-Js" height="200" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
 
